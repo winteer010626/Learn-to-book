@@ -1,0 +1,32 @@
+{
+  "title": "Deutsch B1 – Lektion X: Thema",
+  "subtitle": "Kompakte Notizen · Wortschatz · Grammatik · Mustertexte · Prüfungstipps",
+  "blocks": [
+    {"t": "h1", "text": "1. Wichtiger Wortschatz"},
+    {"t": "h2", "text": "1.1 Nomen"},
+    {"t": "table",
+      "headers": ["Deutsch", "Chinesisch", "Beispiel"],
+      "widths": [4.5, 3.5, 8.0],
+      "aligns": ["l", "c", "l"],
+      "rows": [
+        ["das Wort, -̲er", "单词", "Das Wort ist neu."],
+        ["die Regel, -n", "规则", "Die Regel ist wichtig."]
+      ],
+      "note": "Quelle: Beispielangabe (Jahr)."
+    },
+    {"t": "h2", "text": "1.2 Verben"},
+    {"t": "bullet", "text": "lernen + A – 学习；例: Ich lerne Deutsch."},
+    {"t": "bullet", "text": "verstehen + A – 理解", "bold": false},
+    {"t": "h1", "text": "2. Grammatik"},
+    {"t": "p", "text": "Erklärungssatz mit Regel.", "bold": false},
+    {"t": "spans", "spans": [
+      {"text": "Merksatz: ", "bold": true},
+      {"text": "Das finite Verb steht im Nebensatz am Ende."}
+    ]},
+    {"t": "h1", "text": "3. Mündliche Prüfung"},
+    {"t": "bullet", "text": "Einleitung: Ich möchte über … sprechen.", "bold": true},
+    {"t": "pagebreak"},
+    {"t": "h1", "text": "4. Schriftliche Prüfung"},
+    {"t": "p", "text": "Vollständiger Mustertext als eigener Absatz."}
+  ]
+}
